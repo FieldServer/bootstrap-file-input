@@ -1,0 +1,24 @@
+{
+  "name": "@smc/bootstrap-file-input",
+  "version": "1.0.0",
+  "description": "Standardizes the file input field to look like a Bootstrap button in all browsers",
+  "main": "bootstrap.file-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FieldServer/bootstrap-file-input.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "file",
+    "input"
+  ],
+  "author": "Gregory Pike",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/FieldServer/bootstrap-file-input/issues"
+  },
+  "homepage": "https://github.com/FieldServer/bootstrap-file-input#readme"
+}
